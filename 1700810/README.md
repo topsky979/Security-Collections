@@ -6,7 +6,7 @@ Spina CMS v2.18.0 was discovered to contain a Cross-Site Request Forgery (CSRF) 
 
  [Vulnerability Type]
  
- Cross Site Scripting (XSS)
+ Cross-Site Request Forgery (CSRF)
 
  ------------------------------------------
  [Vendor of Product]
