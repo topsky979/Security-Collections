@@ -11,7 +11,7 @@ Spina CMS v2.18.0 was discovered to contain a Cross-Site Request Forgery (CSRF) 
  ------------------------------------------
  [Vendor of Product]
  
- Spina CMS
+ Spina CMS,https://github.com/SpinaCMS/Spina
 
  ------------------------------------------
 
