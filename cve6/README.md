@@ -1,6 +1,6 @@
-<img width="698" alt="图片" src="https://github.com/user-attachments/assets/13b52393-c18f-4094-93c3-8f8bea881391"> [description]
+[description]
  
-Online-Payroll-Management-System was discovered to contain a SQL Injection vulnerability via the URI /view.php with parameter name 'id'.
+Online-Payroll-Management-System was discovered to contain a SQL Injection vulnerability via the URI /designation_viewmore.php with parameter name 'id'.
 
  ------------------------------------------
 
