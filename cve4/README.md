@@ -1,6 +1,6 @@
  [description]
  
-Tianchoy blog v1.8.8 was discovered to contain a SQL Injection vulnerability via the URI /view.php with parameter name id..
+Tianchoy blog v1.8.8 was discovered to contain a SQL Injection vulnerability via the URI /view.php with parameter name 'id'.
 
  ------------------------------------------
 
