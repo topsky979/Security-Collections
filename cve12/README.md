@@ -55,4 +55,6 @@ Accept-Encoding: gzip, deflate, br
 Accept-Language: en,zh-CN;q=0.9,zh;q=0.8,en-US;q=0.7
 Cookie: i18next=en; Admin-Token=eyJhbGciOiJIUzUxMiJ9.eyJsb2dpbl91c2VyX2tleSI6ImU0ZjJhZWJmLWVkMDEtNGM0OC04YjU4LTI3OTFjMzllMzFmMCJ9.0J-cqM7f9-cNNDe8_Q3CAiWkq4iyNqLDbBUh6mnYfRl1Ygv4HPIp3Ky1cbbpN3_4Zr8lYluJ5-nEunFvF84Xyw; sidebarStatus=0; pro_end=-1; ltd_end=-1; serverType=nginx; order=id%20desc; memSize=32012; SESSIONID=5253906e-713a-40e1-9da8-379c12b5fc68.g9MHRcbVBSSnuxBS2kXozqhXoig; request_token=R2jSjrmCm9VN6xmDbAK0n3uK282rC2acIB330unM9N1GRSTD; sites_path=/www/wwwroot; distribution=ubuntu; force=0; load_type=null; uploadSize=1073741824; rank=a; form_proxy=%5Bobject%20Object%5D; backup_path=/www/backup; PHPSESSID=72uq71htklndamdj2mrmj2f9o7; pnull=1; load_page=1; load_search=undefined; vcodesum=13; BatchPaste=null; _ga=GA1.1.2111016145.1721287966; _gid=GA1.1.1011972672.1721287966; Path=/www/wwwroot/Online-Payroll-Management-System.com; _gat=1; _ga_J1DQF09WZC=GS1.1.1721287966.1.1.1721292029.0.0.0
 Connection: keep-alive
+
+employeeid=1&add=CALCULATE+SALARY
 ```
